@@ -1,0 +1,33 @@
+.bg-footer{
+    background-color: #313131;
+}
+
+.bg-footer h1, h2, h3, h4, h5, a, li, span, p {
+    color: #ffffff;
+}
+
+.input-footer{
+    border: 0;
+    border-radius: 0px;
+    height: 60px;
+}
+
+.input-footer-button{
+    width: 100px;
+}
+
+.round a i{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #ffffff;    
+    color: #313131;
+    text-align: center;  
+}
+
+.padding-footer{
+    padding: 100px 50px 100px 50px;
+}

@@ -1,0 +1,23 @@
+.text-rigth{
+    text-align: right;
+}
+
+.bg-orange{
+    background-color: #fec400;
+}
+
+.bg-orange-dark{
+    background-color: #eaae00;
+}
+
+.bg-blue{
+    background-color: #00c0cb;
+}
+
+.color-white{
+    color: #ffffff!important;
+}
+
+.f-25{
+    font-size: 25px;
+}

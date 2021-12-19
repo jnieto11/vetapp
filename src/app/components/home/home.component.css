@@ -1,0 +1,28 @@
+.btn-outline-light:hover {
+    color: #ffffff;
+    background-color: #fec400;
+    border-color: #f8f9fa;
+}
+
+.card {  
+    width: 90%;
+}
+
+.round a i{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #dfb400;    
+    color: #ffffff;
+    text-align: center;  
+}
+.bg{    
+    background-image: url('https://www.ecestaticos.com/imagestatic/clipping/797/767/79776773aab795837282c7d4947abaf7/por-que-nos-parece-que-los-perros-sonrien-una-historia-de-30-000-anos.jpg?mtime=1622645511');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center center;
+}
